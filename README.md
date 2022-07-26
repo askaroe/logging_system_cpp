@@ -1,2 +1,2 @@
 # logging_system_cpp
-Register and logging program on cpp
+Discription: you can save your data in your pc and check them
