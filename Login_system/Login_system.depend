@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658869380 source:c:\just\login_system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
